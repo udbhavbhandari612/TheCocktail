@@ -28,6 +28,14 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 
 Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
+## Deploy on Firebase
+<ul>
+  <li>Create a project on Firebase Console.</li>
+  <li>In project directory run <code>firebase login</code>.</li>
+  <li>After loggin in run <code>firebase init</code> and complete the setup.</li>
+  <li>After setup run <code>firebase deploy</code>.</li>
+</ul>
+
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
