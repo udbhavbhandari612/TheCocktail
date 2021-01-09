@@ -1,3 +1,7 @@
+# Web Url of the application
+
+<a href="https://the-cocktail-612.web.app/" target="_blank">https://the-cocktail-612.web.app/</a>
+
 
 # TheCocktail
 
